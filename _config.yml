@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook: https://www.facebook.com/sungphill.moon
+  email: sp9103@incorl.hanyang.ac.kr
+  facebook: sungphill.moon
   flickr:
   github: barryclark/jekyll-now
   instagram:
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube:  channel/UCDu6ABH1hDtvHLXxquTxl4Q
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
