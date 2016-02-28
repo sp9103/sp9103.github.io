@@ -76,3 +76,7 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/" 
