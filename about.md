@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+2007.02 ~ 2010.02 진성고등학교
+2010.03 ~ 2014.08 한양대학교 컴퓨터공학부
+2014.09 ~         한양대학교 전자컴퓨터통신공학과 석사과정 - Incorl 연구실
 
 ### More Information
 
