@@ -45,7 +45,7 @@ url: http://sp9103.github.io
 
 #my custom
 paginate: 2
-paginate_path: "page/:num"
+paginate_path: "/blog/page:num"
 
 
 # If you're hosting your site at a Project repository on GitHub pages
