@@ -44,7 +44,7 @@ google_analytics:
 url: http://sp9103.github.io
 
 #my custom
-paginate: 2
+paginate: 4
 paginate_path: "/blog/page:num"
 
 
