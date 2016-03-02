@@ -11,4 +11,5 @@ date:   2016-01-28 17:30:00
 <br>\<Youtube 시연 영상\><br>
 ![_config.yml]({{ site.baseurl }}/images/DesignYourHome/1.jpg)<br>
 ![_config.yml]({{ site.baseurl }}/images/DesignYourHome/2.jpg)<br>
+![_config.yml]({{ site.baseurl }}/images/default.bmp)<br>
 <br>[DesignYourHome 결과보고서](https://github.com/sp9103/sp9103.github.io/blob/master/PDF/WESContest2014_._10004_SQ_CodeWeaver_.pdf)<br>
