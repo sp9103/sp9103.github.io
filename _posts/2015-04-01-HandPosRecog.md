@@ -5,6 +5,8 @@ date:   2015-04-01 17:30:00
 ---
 연구실 Linear classification 세미나 내용 구현<br>
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/iGqGdPqBYg0/0.jpg)](https://www.youtube.com/watch?v=iGqGdPqBYg0)
+<br>\<Youtube 데모 영상\><br>
 <br>-학습 부분은 C++로 구현
 <br>-시연을 위해 학습된 결과물이 빌드된 dll을 Unity로 가져와서 사용.
 
