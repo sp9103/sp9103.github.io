@@ -9,4 +9,4 @@ Real-time Deep Convolutional Neural Network using Stereo Image for Finger langua
 <br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8pg8TiyE29k/0.jpg)](https://www.youtube.com/watch?v=8pg8TiyE29k)
 <br>\<Youtube 시연 동영상\>
 <br><br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lpRQZyppW5E/0.jpg)](https://www.youtube.com/watch?v=lpRQZyppW5E)
-\사전학습 결과 동영상\>
+\<사전학습 결과 동영상\>
