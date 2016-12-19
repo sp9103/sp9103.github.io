@@ -6,7 +6,7 @@ date:   2016-11-22 17:30:00
 
 Real-time Deep Convolutional Neural Network using Stereo Image for Finger language Recognition <br>
 
-<br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/udFVnKxZhFs/0.jpg)](https://www.youtube.com/watch?v=8pg8TiyE29k)
+<br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/udFVnKxZhFs/0.jpg)](https://www.youtube.com/watch?v=udFVnKxZhFs)
 <br>\<Youtube 시연 동영상\>
 <br><br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lpRQZyppW5E/0.jpg)](https://www.youtube.com/watch?v=lpRQZyppW5E)
 <br>\<사전학습 결과 동영상\>
