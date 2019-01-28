@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[sp9103@incorl.hanyang.ac.kr](mailto:email@domain.com)
+[moonsp0304@gmail.com](mailto:email@domain.com)
