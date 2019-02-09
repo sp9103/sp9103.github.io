@@ -47,11 +47,6 @@ url: http://sp9103.github.io
 paginate: 4
 paginate_path: "/blog/page:num"
 
-collections:
-  paper:
-    output: true
-    permalink: /awesome/:path/
-
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
