@@ -1,4 +1,4 @@
 collections:
   paper:
     output: true
-    permalink: /awesome/:path/
+    permalink: /paper/:path/
