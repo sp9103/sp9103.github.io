@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: test
+permalink: /test/
 ---
 
 2017.03 ~ Current 3D Systems korea - SW Engineer<br>
