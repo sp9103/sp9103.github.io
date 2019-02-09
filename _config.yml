@@ -51,6 +51,12 @@ collections:
   paper:
     output: true
     permalink: /paper/:path/
+  project:
+    output: true
+    permalink: /project/:path/
+  study:
+    output: true
+    permalink: /study/:path/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
