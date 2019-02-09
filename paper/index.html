@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{ site.baseurl }
-post.url
 test<br>
 print<br>
 <div class="posts">
 <!-- This loops through the paginated posts for paper-->
 {% for post in site.paper %}
     paperpaper<br>
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.description }}</p>
   <!--<article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
