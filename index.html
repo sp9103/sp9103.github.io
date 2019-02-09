@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% for post in site.paper %}
+paperpaper<br>
+{% endfor %}
+
+{% for post in site.posts %}
+paperpaper<br>
+{% endfor %}
+
 <div class="posts">
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
