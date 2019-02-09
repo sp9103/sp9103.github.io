@@ -1,4 +1,0 @@
-collections:
-  paper:
-    output: true
-    permalink: /paper/:path/
