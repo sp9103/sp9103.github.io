@@ -5,7 +5,6 @@ layout: default
 <div class="posts">
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-    debug string<br>
   <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,7 +13,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
 
 {% endfor %}
