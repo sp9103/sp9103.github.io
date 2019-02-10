@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="posts">
 <!-- This loops through the paginated posts for paper-->
-{% assign sorted = (site.project | sort: 'date')  %}
+{% assign sorted = (site.project | sort: 'date', 'last')  %}
 {% for post in sorted %}
   <article class="post">
 
