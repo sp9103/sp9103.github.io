@@ -1,4 +1,4 @@
-﻿---
+----
 layout: post
 title:  "Multiple Kinect Sensor Fusion for Human Skeleton Tracking Using Kalman Filtering"
 date:   2016-04-29 17:30:00
