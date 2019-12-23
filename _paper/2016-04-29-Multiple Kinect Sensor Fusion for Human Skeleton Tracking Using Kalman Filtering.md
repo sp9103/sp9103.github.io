@@ -1,10 +1,12 @@
----
+﻿---
 layout: post
 title:  "Multiple Kinect Sensor Fusion for Human Skeleton Tracking Using Kalman Filtering"
 date:   2016-04-29 17:30:00
 ---
 
 Multiple Kinect Sensor Fusion for Human Skeleton Tracking Using Kalman Filtering<br>
+
+![_config.yml]({{ site.baseurl }}/images/Multiple_Kinect_Result/Multiple Kinect Result.jpg){: width="50%" height="50%"}<br>
 
 <br>"International Journal of Advanced Robotic Systems"<br> ISSN 1729-8806, Published: April 7, 2016 <br>
 By Sungphill Moon, Youngbin Park, Dong Wook Ko and Il Hong Suh	<br>
