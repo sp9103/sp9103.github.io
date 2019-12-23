@@ -10,4 +10,4 @@ Multiple Kinect Sensor Fusion for Human Skeleton Tracking Using Kalman Filtering
 By Sungphill Moon, Youngbin Park, Dong Wook Ko and Il Hong Suh	<br>
 Regular Paper <br>
 
-<br>[저널 링크](http://www.intechopen.com/journals/international_journal_of_advanced_robotic_systems/multiple-kinect-sensor-fusion-for-human-skeleton-tracking-using-kalman-filtering)<br>
+<br>[저널 링크](https://journals.sagepub.com/doi/full/10.5772/62415)<br>
