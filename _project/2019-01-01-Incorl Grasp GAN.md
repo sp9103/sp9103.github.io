@@ -3,7 +3,7 @@ layout: post
 title:  "Incorl Grasp GAN"
 date:   2019-01-01 17:30:00
 ---
-<b>Incorl Grasp GAN</b><br>
+<br>
 The goal is to learn robot grasping in the real world. Using a simulator is difficult because acquiring a lot of data from the real world is difficult. Domain adaptation is used to make simulator data the same as the real world.
 <br>
 
