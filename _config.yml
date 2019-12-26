@@ -45,7 +45,7 @@ url: http://sp9103.github.io
 
 #my custom
 paginate: 4
-paginate_path: "/blog/page:num"
+paginate_path: "/project/page:num"
 
 collections:
   paper:
