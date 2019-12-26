@@ -6,7 +6,7 @@ date:   2019-05-11 02:20:00
 국내 주가 상관관계 분석 설명을 위한 보조자료<br>
 
 <br>
-Naver Data Science Competition 2019 예선 보고서 보충 
+Naver Data Science Competition 2019 예선 보고서 보충 자료
 
 <br>
 ![_config.yml]({{ site.baseurl }}/images/Market_Clustering/Appendix-1.jpg)<br>
