@@ -9,8 +9,8 @@ Real-time Deep Convolutional Neural Network using Stereo Image for Finger langua
 <br><b>요약문</b><br>
 본 논문은 메모리와 연산 시간 등의 자원 한계를 고려하여 심층 학습(Deep learning)을 활용한 실시간 지화 인식 방법을 제시한다. 또한, 본 논문에서는 양안 이미지와 단일 이미지를 활용한 두 가지 실험의 비교를 통해 심층 합성곱 신경망의 3 차원 정보 해석 가능성을 검증한다.
 
-<br>![_config.yml]({{ site.baseurl }}/images/Finger Lanuage/Training Data.JPG)
-<br>![_config.yml]({{ site.baseurl }}/images/Finger Lanuage/HandGest Result.JPG)
+<br>![_config.yml]({{ site.baseurl }}/images/FingerLanuage/TrainingData.JPG)
+<br>![_config.yml]({{ site.baseurl }}/images/FingerLanuage/HandGestResult.JPG)
 
 <br>[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/udFVnKxZhFs/0.jpg)](https://www.youtube.com/watch?v=udFVnKxZhFs)
 <br>\<Youtube 시연 동영상\>
